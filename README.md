@@ -1,2 +1,2 @@
-# c-_basic
+# c++_basic
 c++基础入门
