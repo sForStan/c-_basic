@@ -17,4 +17,4 @@
 
 - pointer_object:对象指针
 
-- class_template:类模板的生命与定义
+- class_template:类模板的声明与定义
