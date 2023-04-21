@@ -6,6 +6,9 @@ struct.cpp:构造函数与析构函数
 
 class_package:类的封装
 
-demo*.c:类与对象作业
+demo*.c:课后作业
+>1. demo2 类与对象
+
+>2. demo3 静态成员
 
 static_in_class：类的静态成员（静态变量与静态函数）
