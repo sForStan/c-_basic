@@ -11,6 +11,8 @@ c++基础入门
 
 >2. demo3 静态成员
 
+>3. demo4 对象指针
+
 - static_in_class：类的静态成员（静态变量与静态函数）
 
 - pointer_object:对象指针
