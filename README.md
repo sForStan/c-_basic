@@ -7,3 +7,5 @@ struct.cpp:构造函数与析构函数
 class_package:类的封装
 
 demo*.c:类与对象作业
+
+static_in_class：类的静态成员（静态变量与静态函数）
