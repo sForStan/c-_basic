@@ -18,3 +18,5 @@
 - pointer_object:对象指针
 
 - class_template:类模板的声明与定义
+
+- stack_defination:栈定义
